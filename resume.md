@@ -1,6 +1,6 @@
 ## Clark Hollar
 
-Clarkhollar@gmail.com(919) 451 - 2706Github.com/csh5826
+- Clarkhollar@gmail.com - (919) 451 - 2706 - Github.com/csh5826
 
 Self-motivated developer with over 750 hours of programming experience working independently and in an Agilegroup setting. Supportive and enthusiastic team player who is eager to build my technical experience and utilizemy problem solving abilities within a software development team.
 
