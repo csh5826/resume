@@ -1,6 +1,8 @@
 ## Clark Hollar
 
-- Clarkhollar@gmail.com - (919) 451 - 2706 - Github.com/csh5826
+Clarkhollar@gmail.com
+(919) 451 - 2706
+Github.com/csh5826
 
 Self-motivated developer with over 750 hours of programming experience working independently and in an Agilegroup setting. Supportive and enthusiastic team player who is eager to build my technical experience and utilizemy problem solving abilities within a software development team.
 
@@ -44,7 +46,7 @@ Aug to Nov 2020
 - Served as the product owner of a team of 5 and implemented agile development processes.
 - Engineered reusable front end components utilizing React/Redux.
 
-SOFTPRO, Raleigh, NC
+**SOFTPRO**, Raleigh, NC
 Aug 2018 to July 2020
 Specialist – Rates & Fees
 - Gathered and translated technical, business, and user requirements to drive the design and delivery of software customizations adapted to each client’s unique needs.
